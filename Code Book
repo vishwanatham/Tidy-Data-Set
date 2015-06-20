@@ -12,9 +12,12 @@ Below are steps
  
 Below are the list of variables retrived in the result set.
 More details of them can be found here... "UCI HAR Dataset\features_info.txt"
+These values are average vlaues grouped by "subjectId" and "activity".
 
-      subjectId
-      activity
+Below are the codes used as part of name and their meanings...
+* std  >> Standard Deviation
+* mean >> Mean
+
       tBodyAcc-mean-X
       tBodyAcc-mean-Y
       tBodyAcc-mean-Z
